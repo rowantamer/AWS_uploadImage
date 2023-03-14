@@ -1,0 +1,14 @@
+{
+    "require": {
+        "endroid/qr-code": "*",
+        "aws/aws-sdk-php": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "model"
+        ],
+        "files": [
+            "config.php"
+        ]
+    }
+}
