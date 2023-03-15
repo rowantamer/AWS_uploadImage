@@ -1,7 +1,7 @@
 ## FUNCTIONS
-fileSize() ==>  check the file size
-fileType() ==> check if the file extension like .png .jpg .jpeg
-set_credentials() ==> to set credentials 
+fileSize() ==>  check the file size <br>
+fileType() ==> check if the file extension like .png .jpg .jpeg <br>
+set_credentials() ==> to set credentials <br>
 upload() ==>  to upload photo
 
 ## VIDEO
